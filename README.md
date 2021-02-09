@@ -8,7 +8,7 @@ Pronouns: he/him
 
 ---
 
-¡Hola! Soy un "nuevo" desarrollador en los Estados Unidos. Los lenguajes que yo sé más bien son Python y Inglés, pero sé un poco de C, JavaScript, HTML, CSS, y Español. Uso esta cuenta principalmente para contrubuir a [Project Imprimis](https://github.com/project-imprimis); uso mi cuenta de GitLab por proyectos personales.
+¡Hola! Soy un desarrollador "nuevo" en los Estados Unidos. Los lenguajes que yo sé más bien son Python y Inglés, pero sé un poco de C, JavaScript, HTML, CSS, y Español. Uso esta cuenta principalmente para contrubuir a [Project Imprimis](https://github.com/project-imprimis); uso mi cuenta de GitLab por proyectos personales.
 
 Escucho música clásica todo el tiempo. A mí me encanta los compositors como Chopin, Rajmáninov, y Prokófiev.
 
