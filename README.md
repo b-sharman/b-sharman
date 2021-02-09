@@ -6,6 +6,16 @@ You can find me on Discord with my account `NoNo#4240` (snowflake `4660539516245
 Imprimis Discord: https://discord.gg/WVFjtzA  
 Pronouns: he/him
 
+---
+
+¡Hola! Soy un "nuevo" desarrollador en los Estados Unidos. Los lenguajes que yo sé más bien son Python y Inglés, pero sé un poco de C, JavaScript, HTML, CSS, y Español. Uso esta cuenta principalmente para contrubuir a [Project Imprimis](https://github.com/project-imprimis); uso mi cuenta de GitLab por proyectos personales.
+
+Escucho música clásica todo el tiempo. A mí me encanta los compositors como Chopin, Rajmáninov, y Prokófiev.
+
+Puedes encontrarme en Discord con mi cuenta `NoNo#4240` (la ID es `466053951624577024`).
+La servidor de Imprimis en Discord: https://discord.gg/WVFjtzA
+Pronombre: él
+
 <!--
 **nonoesimposible/nonoesimposible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
