@@ -1,4 +1,4 @@
-Hello! I am a "new" developer in the United States. The languages I know the best are Python and English, but I know a little bit of C, JS, HTML, CSS, and Spanish. I use this account primarily to contribute to [Project Imprimis](https://github.com/project-imprimis) and my GitLab account for personal projects.
+Hello! I am a "new" developer in the United States. The languages I know the best are Python and English, but I know a little bit of C, JavaScript, HTML, CSS, and Spanish. I use this account primarily to contribute to [Project Imprimis](https://github.com/project-imprimis) and my GitLab account for personal projects.
 
 I listen to classical music all the time, especially to late Romantic-era composers such as Chopin, Rachmaninoff, and Prokofiev.
 
