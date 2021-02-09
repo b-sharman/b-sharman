@@ -12,8 +12,8 @@ Pronouns: he/him
 
 Escucho música clásica todo el tiempo. A mí me encanta los compositors como Chopin, Rajmáninov, y Prokófiev.
 
-Puedes encontrarme en Discord con mi cuenta `NoNo#4240` (la ID es `466053951624577024`).
-La servidor de Imprimis en Discord: https://discord.gg/WVFjtzA
+Puedes encontrarme en Discord con mi cuenta `NoNo#4240` (la ID es `466053951624577024`).  
+La servidor de Imprimis en Discord: https://discord.gg/WVFjtzA  
 Pronombre: él
 
 <!--
