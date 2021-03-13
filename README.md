@@ -2,7 +2,7 @@ Hello! I am a "new" developer in the United States. The languages I know the bes
 
 I listen to classical music all the time, especially to late Romantic-era composers such as Chopin, Rachmaninoff, and Prokofiev.
 
-You can find me on Discord with my account `NoNo#4240` (snowflake `466053951624577024`).    
+You can find me on Discord as `NoNo#4240` (snowflake `466053951624577024`).    
 Pronouns: he/him
 
 ---
@@ -11,7 +11,7 @@ Pronouns: he/him
 
 Escucho música clásica todo el tiempo. A mí me encanta los compositors como Chopin, Rajmáninov, y Prokófiev.
 
-Puedes encontrarme en Discord con mi cuenta `NoNo#4240` (la ID es `466053951624577024`).    
+Puedes encontrarme en Discord como `NoNo#4240` (la ID es `466053951624577024`).    
 Pronombre: él
 
 <!--
