@@ -1,12 +1,4 @@
-Hello! I am a student in the United States. I know Python, Java, and English best, but I also know a little bit of C, JavaScript, HTML, CSS, and Spanish. I use this account to contribute to [Project Imprimis](https://github.com/project-imprimis) and to personal or school-related projects.
-
-I listen to classical music all the time, especially to late Romantic-era composers such as Chopin, Rachmaninoff, and Prokofiev.
-
----
-
-¡Hola! Soy estudiante en los Estados Unidos. Sé Python, Java, y inglés mejor, pero también sé un poco de C, JavaScript, HTML, CSS, y español. Uso esta cuenta para contribuir a [Proyecto Imprimis](https://github.com/project-imprimis) y a proyectos personales o para la educación.
-
-Escucho música clásica todo el tiempo, especialmente compositores como Chopin, Rajmáninov, y Prokófiev.
+Hello!
 
 <!--
 **b-sharman/b-sharman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
