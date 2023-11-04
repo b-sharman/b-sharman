@@ -1,4 +1,4 @@
-Hello!
+Hi! I'm Byron, a CS student at Mines. When I'm not studying (which, thankfully, constitutes the majority of my time), you can probably find me playing piano, hanging out with friends, grimacing at compiler errors, or contemplating the vicissitudes of life.
 
 <!--
 **b-sharman/b-sharman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
